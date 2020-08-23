@@ -1,3 +1,4 @@
-#MouseOverkay
+# MouseOverlay
 
-The purpose of this is for the devekopment phase of projects. 
+Generates a box with the current coordinates the mouse. Please see the "mouseDraw.js" file for the documentation!
+You can find it (here)[https://okaykenji.github.io/MouseOverlay/mouseDraw.js] 
