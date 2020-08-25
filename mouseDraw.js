@@ -5,7 +5,7 @@
 //  * Customize color
 //  * Turn it on or off via console
 //
-// v8.23.2020 
+// v8.2020 
 //
 // Special thanks to: 
 // * "Daniel Shiffman" @ The Coding Train for helping me to learn this stuff
@@ -17,6 +17,7 @@
 //  Add "mouseLocation()" to the very last line of the draw() function
 //  **Remember to remove these edits when making skeches public**
 function mouseLocation() {
+    strokeWeight(1);
     fill(255);                                            //sets the fill of the box to white
     stroke(0)                                             //sets the outline of the box to black
     rect(mouseX,mouseY,85,25);                            //creates the box
